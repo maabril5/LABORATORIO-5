@@ -96,9 +96,9 @@ CONCLUSIONES.
 
 - Tras la aplicación del teorema se pudo determinar la tensión y corriente que pasa por cada resistencia, teniendo dos terminales para su resolución.
 
-• Dando un nombre al voltaje y a la resistencia propias de Thevenin y aplicando cualquier método al momento de rsolver se llega a la conclusión de que reduce la complejidad del circuito convitipendolo en una mucho más simple
+- Dando un nombre al voltaje y a la resistencia propias de Thevenin y aplicando cualquier método al momento de rsolver se llega a la conclusión de que reduce la complejidad del circuito convitipendolo en una mucho más simple
 
-• Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
+- Mediante un video explicativo se llego a desarrollar conocimientos y comprender el tema con mejor amplitud, poniéndolo en práctica.
 
 BIBLIOGRAFÍA.
 

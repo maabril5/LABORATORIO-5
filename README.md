@@ -8,7 +8,7 @@ Integrantes:
 
 - Pánchez Pablo
 
-TEOREMA DE SUPERPOSICIÓN.
+TEOREMA DE THÉVENIN
 
 1. OBJETIVOS GENERALES
 

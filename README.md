@@ -46,6 +46,8 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/210920118-18017bbf-a924-480e-b2f4-20f19ed85e8d.png)
 
+![image](https://user-images.githubusercontent.com/117920423/210952154-628991df-3d05-4140-abda-8d969f87d48c.png)
+
 ![image](https://user-images.githubusercontent.com/117920423/210951571-9290dc46-1cb1-482b-9793-f09db6c5f7b9.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/210951630-b2d8b78b-275f-4f01-a653-b9889adddc3a.png)

@@ -88,6 +88,8 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 5.3 Cálculamos el porcentaje de error presente en nuestros cálculos:
 
+![image](https://user-images.githubusercontent.com/117920423/210945708-85250219-e7d5-4713-a2ce-6ce71b5c5b23.png)
+
 VIDEO.
 
 

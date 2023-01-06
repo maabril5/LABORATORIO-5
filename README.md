@@ -46,6 +46,14 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/210920118-18017bbf-a924-480e-b2f4-20f19ed85e8d.png)
 
+![image](https://user-images.githubusercontent.com/117920423/210951571-9290dc46-1cb1-482b-9793-f09db6c5f7b9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210951630-b2d8b78b-275f-4f01-a653-b9889adddc3a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210951696-7cfc9661-e94d-4b4f-bc7f-f67c7893b5e3.png)
+
+![image](https://user-images.githubusercontent.com/117920423/210951753-b1caeeee-3974-4c19-a661-f92956583915.png)
+
 4. Cálculos Analíticos.
 
 4.1 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
@@ -56,8 +64,6 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/210919696-239a3308-d121-42c4-bb90-f95a01d71db4.png)
 
-![image](https://user-images.githubusercontent.com/117920423/210951571-9290dc46-1cb1-482b-9793-f09db6c5f7b9.png)
-
 4.2 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
 
 ![image](https://user-images.githubusercontent.com/117920423/210920534-ff5d2b3b-c5d9-4100-8a1e-de3d2721fe00.png)
@@ -66,15 +72,11 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/210920584-f8080d94-c5c5-4bb5-b949-0440e208ca0e.png)
 
-![image](https://user-images.githubusercontent.com/117920423/210951630-b2d8b78b-275f-4f01-a653-b9889adddc3a.png)
-
 4.3 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 5.1.
 
 ![image](https://user-images.githubusercontent.com/117920423/210920683-562ac8ad-a4be-4fc0-9d1a-b99100c47670.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/210920702-2eb94f37-d656-4af7-a889-f5d117a10200.png)
-
-![image](https://user-images.githubusercontent.com/117920423/210951696-7cfc9661-e94d-4b4f-bc7f-f67c7893b5e3.png)
 
 4.4 . Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
@@ -83,8 +85,6 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 ![image](https://user-images.githubusercontent.com/117920423/210920849-fbf12a8a-df4a-4ec6-8d24-eaca5f22e272.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/210920863-94e98f29-1d78-4d3c-b748-63dbe35c2203.png)
-
-![image](https://user-images.githubusercontent.com/117920423/210951753-b1caeeee-3974-4c19-a661-f92956583915.png)
 
 5.1 Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 

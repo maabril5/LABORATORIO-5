@@ -72,7 +72,7 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 4.4 . Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 5.2.
 
-![image](https://user-images.githubusercontent.com/117920423/210920820-42e5ded3-c2c6-4642-832d-6506d87907d6.png)
+![image](https://user-images.githubusercontent.com/117920423/210931375-5a5678a9-750e-448a-bdbc-d4a7ebec0517.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/210920849-fbf12a8a-df4a-4ec6-8d24-eaca5f22e272.png)
 

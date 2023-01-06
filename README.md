@@ -46,7 +46,9 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/210920118-18017bbf-a924-480e-b2f4-20f19ed85e8d.png)
 
-3.3 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+4. Cálculos Analíticos.
+
+4.1 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
 
 ![image](https://user-images.githubusercontent.com/117920423/210919769-70d5a5be-ac4c-4f1d-9ef6-fbb8cc65d211.png)
 
@@ -54,7 +56,9 @@ Los materiales necesarios para realizar el laboratorio 5 son:
 
 ![image](https://user-images.githubusercontent.com/117920423/210919696-239a3308-d121-42c4-bb90-f95a01d71db4.png)
 
-3.4 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+4.2 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+
+
 
 
 
